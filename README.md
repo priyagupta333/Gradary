@@ -86,22 +86,32 @@ Gradary/
 └── images/           # Backgrounds and Assets
 
 
-🎨 Design System
+## 🎨 Design System
+
 The application uses a clean, minimal "Cream & Black" aesthetic with color-coded alerts:
 
-Backgrounds: Cream (#E9E6DD) and White (#FDFCFB)
-Text: Primary Black (#18181b) and Dark Grey (#404040)
-Status Colors:
-Success/Low Urgency: Emerald Green
-Warning/Medium Urgency: Amber Orange
-Danger/High Urgency: Red
-🚀 How to Run
-Download the project folder.
-Open the Gradary folder.
-Run index.html in your web browser.
-Tip: For the best experience, use a local server (like VS Code's "Live Server" extension) to ensure JavaScript modules load correctly without CORS errors.
-🔮 Future Scope
-Backend integration for cloud data storage.
-Calendar view integration.
-Notifications for upcoming deadlines.
-CGPA Calculator based on credit points.
+*   **Backgrounds:** Cream (`#E9E6DD`) and White (`#FDFCFB`)
+*   **Text:** Primary Black (`#18181b`) and Dark Grey (`#404040`)
+*   **Status Colors:**
+    *   Success/Low Urgency: Emerald Green
+    *   Warning/Medium Urgency: Amber Orange
+    *   Danger/High Urgency: Red
+
+---
+
+## 🚀 How to Run
+
+1.  **Download** the project folder.
+2.  **Open** the `Gradary` folder.
+3.  **Run** `index.html` in your web browser.
+
+> **Tip:** For the best experience, use a local server (like VS Code's "Live Server" extension) to ensure JavaScript modules load correctly without CORS errors.
+
+---
+
+## 🔮 Future Scope
+
+*   Backend integration for cloud data storage.
+*   Calendar view integration.
+*   Notifications for upcoming deadlines.
+*   CGPA Calculator based on credit points.
